@@ -1,8 +1,8 @@
 import os
 from flask import Flask, render_template, request, send_file
 import pyodbc
-import pandas as pd
-import io
+#import pandas as pd
+#import io
 
 app = Flask(__name__)
 
